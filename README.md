@@ -32,16 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DansuraitoAhiru&theme=radical" height="180">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DansuraitoAhiru&theme=radical" height="180">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DansuraitoAhiru&theme=radical" height="180">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DansuraitoAhiru&theme=radical&utcOffset=7" height="180">
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
