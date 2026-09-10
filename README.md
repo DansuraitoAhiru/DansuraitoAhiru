@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CE3F7&center=true&vCenter=true&width=435&lines=Cảm+ơn+bạn+đã+ghé+thăm!+✨;Hãy yêu thưn tui nhé, I'm so lonely!;Happy+Coding!+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CE3F7&center=true&vCenter=true&width=435&lines=Cảm+ơn+bạn+đã+ghé+thăm!+✨;Hãy+yêu+thưn+tui+nhé+,+I'm+so+lonely!;Enjoy!+💻" alt="Typing SVG" />
 </p>
 
 <p align="center">
